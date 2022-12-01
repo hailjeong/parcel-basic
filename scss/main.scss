@@ -1,0 +1,10 @@
+$clolr--black: #000;
+$clolr--white: #fff;
+
+body {
+  background-color: $clolr--black;
+  h1 {
+    color: $clolr--white;
+    display: flex;
+  }
+}
